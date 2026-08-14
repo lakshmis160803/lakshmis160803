@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Dynamic Typing Presentation Title -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFA500&background=0D1117&center=true&vCenter=true&width=550&height=50&lines=%3E+MERN+Stack+Developer_;%3E+Full+Stack+Developer_;%3E+React+%7C+Node+%7C+MongoDB_;%3E+Building+Scalable+Web+Apps_" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFA500&background=0D1117&center=true&vCenter=true&width=550&height=50&lines=%3E+MERN+Stack+Developer_;%3E+Full+Stack+Engineer_;%3E+React+%7C+Node+%7C+MongoDB_;%3E+Building+Scalable+Web+Apps_" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -40,7 +40,7 @@ Currently working as a **Full Stack Developer Intern at Bridgeon Solutions**, wh
   <tr>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=nodejs" height="35" /><br><sub>Node.js</sub></td>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=express" height="35" /><br><sub>Express.js</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=mongodb" height="35" /><br>><sub>MongoDB</sub></td>
+    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=mongodb" height="35" /><br><sub>MongoDB</sub></td>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=aws" height="35" /><br><sub>AWS EC2</sub></td>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=vercel" height="35" /><br><sub>Vercel</sub></td>
     <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=git" height="35" /><br><sub>Git</sub></td>
@@ -76,12 +76,12 @@ Currently working as a **Full Stack Developer Intern at Bridgeon Solutions**, wh
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmis160803&show_icons=true&theme=matrix&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmis160803&theme=matrix&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lakshmis160803&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFA500&icon_color=FFA500&text_color=C9D1D9" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=lakshmis160803&hide_border=true&background=0D1117&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmis160803&theme=matrix&hide_border=true&area=true" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmis160803&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=FFA500&point=FFA500" width="98%" />
 </p>
 
 ---
