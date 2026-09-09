@@ -246,31 +246,23 @@ An AI-powered e-commerce intelligence platform focused on interactive analytics 
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=lakshmis160803&show_icons=true&theme=transparent&hide_border=true"
-  width="48%"
-  alt="GitHub Stats"
-/>
+<a href="https://github.com/lakshmis160803">
+  <img
+    src="./profile/stats.svg"
+    width="48%"
+    alt="Lakshmi's GitHub Stats"
+  />
+</a>
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmis160803&layout=compact&theme=transparent&hide_border=true"
-  width="48%"
-  alt="Top Languages"
-/>
-
-<br><br>
-
-<img
-  src="https://streak-stats.demolab.com?user=lakshmis160803&theme=transparent&hide_border=true"
-  width="70%"
-  alt="GitHub Streak"
-/>
+<a href="https://github.com/lakshmis160803">
+  <img
+    src="./profile/top-langs.svg"
+    width="48%"
+    alt="Lakshmi's Top Languages"
+  />
+</a>
 
 </div>
-
----
-
-
 
 ---
 
