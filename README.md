@@ -1,101 +1,442 @@
 <div align="center">
-  <!-- Dynamic Typing Presentation Title -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FFA500&background=0D1117&center=true&vCenter=true&width=550&height=50&lines=%3E+MERN+Stack+Developer_;%3E+Full+Stack+Engineer_;%3E+React+%7C+Node+%7C+MongoDB_;%3E+Building+Scalable+Web+Apps_" alt="Typing SVG" />
-  </a>
 
-  <p align="center">
-    <img src="https://img.shields.io/github/followers/lakshmis160803?label=Network&style=flat-square&color=FFA500&logo=github" />
-    <img src="https://komarev.com/ghpvc/?username=lakshmis160803&label=Profile%20Visits&style=flat-square&color=FFA500" />
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&height=70&lines=Hi%2C+I'm+Lakshmi+S+%F0%9F%91%8B;Full+Stack+Developer;MERN+Stack+Developer;I+Build+Modern+Web+Applications" alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="90%"/>
+
+### Full Stack Developer · MERN Stack · Web Application Development
+
+<br>
+
+<a href="https://github.com/lakshmis160803">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:lakshmistla17@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=lakshmis160803&label=Profile%20Views&color=8B5CF6&style=flat-square"/>
+
 </div>
 
 ---
 
-### 🌐 About Me
+## 👋 About Me
 
-MERN Stack Developer with hands-on experience building full-stack web applications using **React.js, Next.js, TypeScript, Node.js, Express.js, and MongoDB**. Skilled in designing secure RESTful APIs, authentication systems, analytics dashboards, and deploying applications on AWS EC2, Vercel, and Render.
+I'm **Lakshmi S**, a **Full Stack / MERN Stack Developer** focused on building modern, scalable and user-friendly web applications.
 
-Currently working as a **Full Stack Developer Intern at Bridgeon Solutions**, where I build production applications end-to-end — from responsive React interfaces to secure Express APIs backed by MongoDB, with JWT/OAuth authentication, RBAC, and aggregation-pipeline-driven analytics dashboards.
+I work across the complete application stack — from responsive React interfaces and state management to RESTful APIs, authentication, database design, analytics and cloud deployment.
 
-* 🎓 **Education:** B.Sc. Computer Science, University of Calicut (2025)
-* 🪐 **Currently Building:** E-commerce platforms and AI-powered analytics dashboards with real-time reporting
-* ⚡ **Focus Areas:** REST API design, JWT/OAuth authentication, MongoDB aggregation pipelines, and cloud deployment (AWS EC2, Vercel, Render)
+My experience includes working with **React.js, Next.js, TypeScript, Node.js, Express.js and MongoDB**, along with authentication systems, analytics dashboards and AWS deployments.
+
+```javascript
+const lakshmi = {
+    role: "Full Stack Developer",
+    stack: "MERN",
+
+    frontend: [
+        "React.js",
+        "Next.js",
+        "TypeScript",
+        "Redux Toolkit",
+        "Tailwind CSS"
+    ],
+
+    backend: [
+        "Node.js",
+        "Express.js",
+        "REST APIs"
+    ],
+
+    database: [
+        "MongoDB",
+        "MongoDB Atlas",
+        "MySQL"
+    ],
+
+    focus: [
+        "Scalable Web Applications",
+        "REST API Development",
+        "Authentication & Security",
+        "Analytics Dashboards",
+        "Cloud Deployment"
+    ]
+};
+```
 
 ---
 
-### 💻 Tech Stack & Skills
+## 🛠️ Tech Stack
 
-<table align="center" width="100%">
-  <tr>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=javascript" height="35" /><br><sub>JavaScript</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=typescript" height="35" /><br><sub>TypeScript</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=html" height="35" /><br><sub>HTML5</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=css" height="35" /><br><sub>CSS3</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=react" height="35" /><br><sub>React</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=nextjs" height="35" /><br><sub>Next.js</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=redux" height="35" /><br><sub>Redux Toolkit</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=tailwindcss" height="35" /><br><sub>Tailwind CSS</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=nodejs" height="35" /><br><sub>Node.js</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=express" height="35" /><br><sub>Express.js</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=mongodb" height="35" /><br><sub>MongoDB</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=aws" height="35" /><br><sub>AWS EC2</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=vercel" height="35" /><br><sub>Vercel</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=git" height="35" /><br><sub>Git</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=github" height="35" /><br><sub>GitHub</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=postman" height="35" /><br><sub>Postman</sub></td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=vscode" height="35" /><br><sub>VS Code</sub></td>
-    <td align="center" valign="middle" width="10%"><img src="https://skillicons.dev/icons?i=vite" height="35" /><br><sub>Vite</sub></td>
-  </tr>
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+
+<br><br>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap" />
+
+<br><br>
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+<br><br>
+
+### Cloud, Tools & Development
+
+<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,postman,vite,vscode" />
+
+</div>
+
+<br>
+
+| Area                 | Technologies                                       |
+| -------------------- | -------------------------------------------------- |
+| **Languages**        | JavaScript ES6+, TypeScript, HTML5, CSS3           |
+| **Frontend**         | React.js, Next.js, Redux Toolkit, React Router     |
+| **Styling**          | Tailwind CSS, Bootstrap                            |
+| **Forms & UI**       | React Hook Form, Formik, Yup                       |
+| **Backend**          | Node.js, Express.js                                |
+| **APIs**             | RESTful APIs, Axios                                |
+| **Database**         | MongoDB, MongoDB Atlas, MySQL                      |
+| **ODM / Validation** | Mongoose, Zod                                      |
+| **Analytics**        | Recharts, MongoDB Aggregation Pipelines            |
+| **Authentication**   | JWT, Google OAuth 2.0, Cookie-Based Authentication |
+| **Security**         | RBAC, bcrypt.js, Change Password                   |
+| **Services**         | Razorpay, Cloudinary                               |
+| **Deployment**       | AWS EC2, Vercel, Render                            |
+| **Tools**            | Git, GitHub, Postman, Vite, VS Code, ExcelJS       |
+
+The skills above are based on the technical skills listed in your CV.
+
+---
+
+## 💼 Experience
+
+### Bridgeon Solutions
+
+**Full Stack Developer Intern**
+📍 Kerala, India · **November 2025 – Present**
+
+I develop and maintain full-stack applications using the MERN ecosystem and contribute across frontend, backend, database and deployment layers.
+
+**What I work on:**
+
+* ⚛️ MERN stack application development
+* 🔐 JWT authentication & Google OAuth
+* 🛡️ Role-Based Access Control
+* 🍪 Cookie-based authentication
+* 🔑 Change Password functionality
+* 📊 Analytics dashboards
+* 🗄️ MongoDB aggregation pipelines
+* 📥 Excel / CSV import
+* 📱 Responsive UI development
+* 🛒 Product management
+* 💳 Razorpay integration
+* ☁️ Cloudinary integration
+* 🚀 AWS EC2, Vercel & Render deployment
+* 🔀 Git & GitHub collaboration
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+### Building real-world applications with modern technologies
+
+</div>
+
+---
+
+## 🛒 Headga
+
+### Full-Stack E-Commerce Platform
+
+<div align="center">
+
+<a href="https://headga-complete.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-8B5CF6?style=for-the-badge"/>
+</a>
+
+</div>
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Recharts`
+
+Headga is a MERN-based e-commerce platform with authentication, shopping functionality, order management and payment integration.
+
+### Key Features
+
+* 🔐 JWT Authentication
+* 🔑 Google OAuth
+* 📱 OTP Verification
+* 👤 Role-Based Access Control
+* 🛒 Cart Management
+* ❤️ Wishlist
+* 📦 Order Management
+* 💳 Razorpay Payment Integration
+* ☁️ Cloudinary Image Management
+* 📝 Formik & Yup validation
+* 📊 Recharts
+* 🗄️ Scalable MongoDB schemas
+* ⚡ Optimized backend APIs
+
+---
+
+## 🧠 EcomIntelligence
+
+### E-Commerce Intelligence Platform
+
+<div align="center">
+
+<a href="https://ecommerce-analyser.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_LIVE_DEMO-8B5CF6?style=for-the-badge"/>
+</a>
+
+</div>
+
+**Tech Stack**
+
+`React.js` `Node.js` `Express.js` `MongoDB` `AWS EC2` `JWT` `Recharts`
+
+An AI-powered e-commerce intelligence platform focused on interactive analytics and business insights.
+
+### Key Features
+
+* 📊 Sales analytics
+* 👥 Customer analytics
+* 📦 Inventory analytics
+* 🛍️ Product analytics
+* 🌎 Regional performance analytics
+* 🔐 JWT Authentication
+* 🔑 Google OAuth
+* 🛡️ Role-Based Access Control
+* 🔒 Change Password functionality
+* 📈 MongoDB aggregation pipelines
+* 📑 Reporting module
+* 📅 Date-range filtering
+* 📥 CSV / Excel export
+* 📊 Downloadable business insights
+* ⚛️ React + Redux Toolkit frontend
+* 🎨 Tailwind CSS
+* 🚀 Vercel frontend deployment
+* ☁️ AWS EC2 backend deployment
+* 🗄️ MongoDB Atlas
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=lakshmis160803&show_icons=true&theme=transparent&hide_border=true"
+  width="48%"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmis160803&layout=compact&theme=transparent&hide_border=true"
+  width="48%"
+  alt="Top Languages"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=lakshmis160803&theme=transparent&hide_border=true"
+  width="70%"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/lakshmis160803/lakshmis160803/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🧩 LeetCode
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/LEETCODE_USERNAME?theme=dark&font=baloo&ext=heatmap" width="500"/>
+
+</div>
+
+> Replace `LEETCODE_USERNAME` with your actual LeetCode username.
+
+---
+
+# 🎓 Education
+
+<div align="center">
+
+### B.Sc. Computer Science
+
+**University of Calicut**
+
+**2025**
+
+</div>
+
+---
+
+# 📌 What I Build
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### ⚛️
+
+**Frontend**
+
+React
+Next.js
+Redux
+Tailwind
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+Node.js
+Express
+REST APIs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️
+
+**Data**
+
+MongoDB
+MongoDB Atlas
+MySQL
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️
+
+**Deploy**
+
+AWS EC2
+Vercel
+Render
+
+</td>
+</tr>
 </table>
 
-**Also skilled in:** JWT Authentication • Google OAuth 2.0 • Cookie-Based Authentication • Role-Based Access Control (RBAC) • bcrypt.js • Mongoose • Multer • Zod • MongoDB Aggregation Pipelines • Axios • React Hook Form • Recharts • ExcelJS
+</div>
 
 ---
 
-### 🚀 Featured Projects
+# 🔐 Development Focus
 
-#### 📁 Headga — Full-Stack E-Commerce Platform
-> MERN-based e-commerce platform with authentication, cart, wishlist, orders, and payment integration.
-* **Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Recharts`
-* **Highlights:** Built RESTful APIs with JWT, Google OAuth, OTP verification, and RBAC. Integrated Razorpay for payments and Cloudinary for image management, with Formik + Yup for secure form validation.
-* 🔗 [Live Demo](https://headga-complete.vercel.app/)
-
-#### 📁 EcomIntelligence — E-Commerce Intelligence Platform
-> AI-powered e-commerce analytics platform with interactive dashboards for sales, inventory, and regional performance.
-* **Stack:** `React.js` • `Node.js` • `Express.js` • `MongoDB` • `AWS EC2` • `JWT` • `Recharts`
-* **Highlights:** Built analytics using MongoDB Aggregation and Recharts, a reporting module with date-range filtering and CSV/Excel export, and a Redux Toolkit + Tailwind CSS frontend deployed on Vercel with backend on AWS EC2.
-* 🔗 [Live Demo](https://ecommerce-analyser.vercel.app/)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lakshmis160803&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFA500&icon_color=FFA500&text_color=C9D1D9" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=lakshmis160803&hide_border=true&background=0D1117&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshmis160803&hide_border=true&area=true&bg_color=0D1117&color=C9D1D9&line=FFA500&point=FFA500" width="98%" />
-</p>
+```text
+                    MODERN WEB DEVELOPMENT
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+       FRONTEND             BACKEND            DATABASE
+          │                   │                   │
+     React / Next         Node / Express       MongoDB
+     TypeScript           REST APIs             MySQL
+     Redux                Authentication        Aggregation
+     Tailwind             Authorization         Atlas
+          │                   │                   │
+          └───────────────────┼───────────────────┘
+                              │
+                         DEPLOYMENT
+                              │
+                    AWS EC2 / Vercel / Render
+```
 
 ---
 
-### 🤝 Connect With Me
+# 🌱 Currently Building
 
-<p align="center">
-  <a href="https://github.com/lakshmis160803" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lakshmi-s-a55359340/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:lakshmistla17@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+I'm continuously improving my skills in:
+
+* Full Stack Web Development
+* Scalable REST API architecture
+* Authentication & authorization
+* MongoDB data modeling
+* Analytics dashboards
+* Cloud deployment
+* Responsive application design
+* State management
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
+
+<a href="mailto:lakshmistla17@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/lakshmis160803">
+<img src="https://img.shields.io/badge/GitHub-lakshmis160803-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💜 Thanks for visiting my profile!
+
+**I build. I learn. I improve.**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer" width="100%"/>
+
+</div>
